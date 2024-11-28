@@ -1,0 +1,16 @@
+{
+    "name": "sosoricsi/event-handler",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "SosoSicsi\\EventHandler\\": "code/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jarkó Richárd",
+            "email": "jarkoricsi16@gmail.com"
+        }
+    ],
+    "require": {}
+}
